@@ -1,5 +1,4 @@
 pillow
-Tkinter==8.6
 pygame
 nltk
 ipython
